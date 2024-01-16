@@ -66,7 +66,7 @@ input{
     display: flex;
     margin: 20px auto;
     align-items: center;
-    gap: 60px;
+    gap: 40px;
 }
 .read-more-btn{
   border: none;
@@ -171,16 +171,16 @@ li{
   margin-bottom: 200px;
   }
 .upbox-content{
-  max-width: 520px;
-  max-height: 389px;
+  width: 520px;
+  height: 289px;
   border: 2px solid #FFF;
   border-radius: 15px;
   padding: 35px;
   background: rgba(255, 255, 255, 0.80);
   backdrop-filter: blur(2.5px);
   position: relative;
-  left: 250px;
-  top: 100px;
+  left: 210px;
+  top: 85px;
   
 }
 .image-box{
@@ -380,7 +380,7 @@ li{
     flex-direction: column;
   }
   .popular-tour-img{
-    width: 100%;
+    width:60px;
   }
   .frist-sample{
     flex-direction: column;
@@ -396,9 +396,6 @@ li{
   }
   .handpicked-hotel,.worldclass-service{
     width: auto;
-  }
-  .upbox-content{
-
   }
   .image-box{
     max-width: 560px;
