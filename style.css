@@ -382,6 +382,9 @@ li{
   .popupar-tour-container{
     flex-direction: column;
   }
+  .popular-tour-img{
+  width: auto;
+}
   .frist-sample{
     flex-direction: column;
   }
