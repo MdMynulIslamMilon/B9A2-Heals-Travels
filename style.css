@@ -68,6 +68,9 @@ input{
     align-items: center;
     gap: 40px;
 }
+.popular-tour-img{
+  width: auto;
+}
 .read-more-btn{
   border: none;
   border-radius: 5px;
@@ -378,9 +381,6 @@ li{
   }
   .popupar-tour-container{
     flex-direction: column;
-  }
-  .popular-tour-img{
-    width:60px;
   }
   .frist-sample{
     flex-direction: column;
