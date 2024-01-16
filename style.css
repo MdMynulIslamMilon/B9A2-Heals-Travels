@@ -299,6 +299,30 @@ li{
   background-color: #FF5400;
   border-radius: 6px;
 }
+/* my section */
+.mysection-container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.mysection-content{
+  text-align: center;
+  
+}
+.mysecton-heading{
+  color: #FF5400;
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+.tour-img{
+  display: grid;
+  grid-template-columns: auto auto ;
+  gap: 20px;
+  border-radius: 35px;
+}
+
 .footer-container{
   background: rgba(19, 19, 24, 0.05);
   width: 1440px;
